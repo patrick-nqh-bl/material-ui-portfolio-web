@@ -12,4 +12,5 @@
 
 3. NPM module awesome:
 > react-typed
+<br>
 > react-particles-js
